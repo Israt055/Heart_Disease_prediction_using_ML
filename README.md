@@ -2,7 +2,7 @@
 
 # Data source: https://archive.ics.uci.edu/ml/datasets/heart+disease
 
-#Data processing
+# Data processing
 1. Load the dataset
 2. Explain the features and target variable
 3. Deal with the missing values
